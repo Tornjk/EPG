@@ -1,0 +1,15 @@
+## Interface: 100000
+## Title: Echoes Pro Gambler
+## Notes: Essential Gold Addiction AddOn
+## Version: 0.1.0
+
+# Essentials
+embeds.xml
+Core.lua
+EchoesProGambler.lua
+
+# Modules
+Modules\Session.lua
+
+# Debugging module - attaches Log function to some objects
+Debugging.lua
